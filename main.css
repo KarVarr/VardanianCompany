@@ -9,13 +9,96 @@ html {
   -ms-text-size-adjust: 16px;
 }
 body {
-  margin: 50px auto;
-  display: grid;
-  place-items: center;
+  height: 90dvh;
+  margin: 2rem auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   background: black;
 }
 
 pre {
-    font-size: large;
+  font-size: large;
+  text-align: center;
+  margin-bottom: 10rem;
+}
+
+.subtitle {
+  margin-bottom: 30rem;
+  width: 60rem;
+  text-align: center;
+  line-height: 2;
+  font-size: 2rem;
+}
+
+.email {
+  color: crimson;
+  font-size: 2rem;
+
+}
+
+.footer__text {
+  text-align: center;
+  line-height: 2;
+  font-size: 3rem;
+}
+
+@media screen and (max-width: 767px) {
+  pre {
+    font-size: medium;
     text-align: center;
+    margin-bottom: 10rem;
+  }
+  .subtitle {
+    margin-bottom: 20rem;
+    max-width: 90%;
+    text-align: center;
+    line-height: 1.8;
+    font-size: 3rem;
+  }
+  .email {
+    font-size: 3rem;
+  }
+  .footer__text {
+    font-size: 4rem;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  pre {
+    font-size: 1rem;
+    margin-bottom: 10rem;
+  }
+  .subtitle {
+    font-size: 3rem;
+    margin-bottom: 10rem;
+    max-width: 90%;
+    line-height: 1.8;
+  }
+
+  .email {
+    font-size: 3rem;
+  }
+  .footer__text {
+    font-size: 4rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  pre {
+    font-size: 0.7rem;
+    margin-bottom: 10rem;
+  }
+  .subtitle {
+    font-size: 2rem;
+    margin-bottom: 10rem;
+    max-width: 90%;
+    line-height: 1.8;
+  }
+  .email {
+    font-size: 2rem;
+  }
+  .footer__text {
+    font-size: 4rem;
+  }
 }
