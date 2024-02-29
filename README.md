@@ -1,10 +1,10 @@
-# Welcome to Vardanian Studios!
+# Welcome to Vardanian Company!
 
-This repository represents the website of Vardanian Studios, where you can find information about our latest applications, projects, and news.
+This repository represents the website of Vardanian Company, where you can find information about our latest applications, projects, and news.
 
 ## About Us
 
-Vardanian Studios is a small team of developers specializing in creating innovative mobile applications for iOS. We strive to make our apps useful, user-friendly, and of high quality.
+Vardanian Company is a small team of developers specializing in creating innovative mobile applications for iOS. We strive to make our apps useful, user-friendly, and of high quality.
 
 ## What You'll Find Here
 
@@ -21,13 +21,13 @@ Thanks for visiting!
 
 ---
 
-# Добро пожаловать в Vardanian Studios!
+# Добро пожаловать в Vardanian Company!
 
-Этот репозиторий представляет собой сайт Vardanian Studios, где вы можете найти информацию о наших последних приложениях, проектах и новостях.
+Этот репозиторий представляет собой сайт Vardanian Company, где вы можете найти информацию о наших последних приложениях, проектах и новостях.
 
 ## О нас
 
-Vardanian Studios - это небольшая команда разработчиков, специализирующаяся на создании инновационных мобильных приложений для iOS. Мы стремимся к тому, чтобы наши приложения были полезными, удобными в использовании и качественными.
+Vardanian Company - это небольшая команда разработчиков, специализирующаяся на создании инновационных мобильных приложений для iOS. Мы стремимся к тому, чтобы наши приложения были полезными, удобными в использовании и качественными.
 
 ## Что вы найдете здесь
 
