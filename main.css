@@ -1,0 +1,21 @@
+* {
+  font-family: 'Courier New';
+  font-weight: bold;
+  color: #00ff00;
+}
+html {
+  font-size: 62.5%;
+  -webkit-text-size-adjust: 16px;
+  -ms-text-size-adjust: 16px;
+}
+body {
+  margin: 50px auto;
+  display: grid;
+  place-items: center;
+  background: black;
+}
+
+pre {
+    font-size: large;
+    text-align: center;
+}
